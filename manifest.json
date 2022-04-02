@@ -8,7 +8,7 @@
       "sizes": "256x256"
     }
   ],
-  "start_url": "?source=pwa",
+  "start_url": "/MaterialCatToy/?source=pwa",
   "background_color": "#121212",
   "display": "standalone",
   "scope": "/",
@@ -18,7 +18,7 @@
       "name": "MatCat",
       "short_name": "MatCat",
       "description": "Material cat toy",
-      "url": "?source=pwa",
+      "url": "/MaterialCatToy/?source=pwa",
       "icons": [{ "src": "icon.png", "sizes": "256x256" }]
     }
   ],
