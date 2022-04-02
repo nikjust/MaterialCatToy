@@ -8,8 +8,8 @@
       "sizes": "256x256"
     }
   ],
-  "start_url": "/MaterialCatToy",
-  "id": "/MaterialCatToy",
+  "start_url": "/MaterialCatToy/",
+  "id": "/MaterialCatToy/",
   "background_color": "#121212",
   "display": "standalone",
   "scope": "/MaterialCatToy/",
