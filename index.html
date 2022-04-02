@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="style.css">
@@ -12,11 +13,13 @@
     </script>
 </head>
 <body>
+<div id="var-container">
 <h1 id="score">0</h1>
 
-<div id="circle">
-    <div class="circle inner animated" style="animation: size-down 5s infinite;" id="inner" ></div>
-    <div class="circle outer"></div>
+<div id="circle" data-type="symbol">
+    <div class="circle inner animated" style="animation: size-down 5s infinite;" id="inner" data-type="symbol"></div>
+    <div class="circle outer" data-type="symbol"></div>
+</div>
 </div>
 </body>
 </html>

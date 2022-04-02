@@ -4,6 +4,7 @@ body {
     background: #121212;
 }
 
+
 #circle {
     width: 200px;
     height: 200px;
@@ -22,7 +23,7 @@ body {
 
 }
 
-.animated{
+.animated {
 
 }
 
@@ -44,6 +45,16 @@ body {
     font-weight: bold;
     margin: 0;
     color: #ffffff;
+}
+
+.particle {
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 @keyframes size-down {
