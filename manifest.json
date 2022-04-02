@@ -19,7 +19,7 @@
       "name": "MatCat",
       "short_name": "MatCat",
       "description": "Material cat toy",
-      "url": "/MaterialCatToy",
+      "url": "/MaterialCatToy/",
       "icons": [{ "src": "icon.png", "sizes": "256x256" }]
     }
   ],
