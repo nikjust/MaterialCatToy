@@ -12,7 +12,7 @@
   "id": "/MaterialCatToy",
   "background_color": "#121212",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/MaterialCatToy",
   "theme_color": "#7e3ff2",
   "shortcuts": [
     {
